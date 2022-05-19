@@ -29,6 +29,7 @@ permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 theme: minima
+google_analytics: G-DY8JZ5V1K3
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
