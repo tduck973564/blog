@@ -28,7 +28,7 @@ github_username:  tduck973564
 permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
