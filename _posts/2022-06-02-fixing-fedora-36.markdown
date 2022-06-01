@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixing Fedora 36 - repositories, theme inconsistencies and choppiness"
 date:   2022-06-01 08:00:00 +1000
-categories: gnome, linux, fedora
+categories: gnome linux fedora
 ---
 # Fixing Fedora 36
 Fedora 36 is an undoubtedly great release of Fedora with new software and the same old Fedora features that you love, now with the new Gnome 42. 
