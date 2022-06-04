@@ -1,0 +1,13 @@
+- Introduction
+- Internals
+- Build quality
+- Screen (resolution, pixel density, color gamut, bezels, aspect ratio)
+- Keyboard and trackpad
+- Speakers
+- Battery life (battery size and time until drained)
+- Form factor (dimensions and weight)
+- Software (windows edition and version, ootb bloatware)
+- Benchmarking (Geekbench 5, Cinebench, Phoronix)
+- Quirks (xwayland blurry, bluetooth headphones, fresh windows install has no wlan drivers, allegedly some units have a trackpad fault)
+- Conclusion
+
